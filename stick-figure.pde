@@ -9,3 +9,6 @@
  *
  * The original Game of Life was created by John Conway in 1970.
  */
+
+// Size of cells
+int cellSize = 5;
